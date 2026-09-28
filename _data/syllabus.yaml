@@ -1,24 +1,24 @@
 - day: Monday
-  date: 10/14/2024
+  date: 10/12/2026
   topic: >
-    A feeling for the organism.  What sets the scale of X?  Order of magnitude thinking as a tool for understanding the world.  Examples from the energy scale to form a spindle to the amount of poop created per year by whales.
+    A feeling for the organism. What sets the scale of X? The cell as a bag of X. Order of magnitude thinking, scaling estimates and dimensionless numbers as tools for understanding biology.
 
 - day: Tuesday
-  date: 10/15/2024
+  date: 10/13/2026
   topic: >
-    Stuff of t and biology’s unique laws of dynamics.  Dynamical phenomena in both the nonliving and the living.  The great principles of dynamics and their biological consequences.  Biology’s unique answer to purposeful dynamics.
+    Stuff of t and biology’s unique laws of dynamics. Different update rules in biology, the dynamics of mRNA and the ubiquitous dynamics of turnover. Probability distributions and their appearance in biological phenomena. Chemical master equations as a theory of the histogram.
 
 - day: Wednesday
-  date: 10/16/2024
+  date: 10/14/2026
   topic: >
-    Making our guesses precise—null hypotheses.  When guesses become probability distributions.  The great distributions—binomial, Poisson, exponential and their important biological consequences.
+    Making our guesses precise: null hypotheses and the great probability distributions. Diffusion as our dynamical null hypothesis. Exploratory processes and when diffusion is not enough.
    
 - day: Thursday
-  date: 10/17/2024
+  date: 10/15/2026
   topic: >
-    What is life?  Various musings on the secret of life. Defiance as the secret of life.  Biological batteries and paying for the processes of life.  Setting up membrane gradients. Biological fidelity.
+    The Secret of Life: Defiance. Defying the call to equilibrium and examples of biological defiance. Thinking about ATP consumption and its biological consequences.
 
 - day: Friday
-  date: 10/18/2024
+  date: 10/16/2026
   topic: >
-    Representing and Approximating Life.  Rethinking the idea of a vector—from Descartes (x,y) to ChatGPT. Weird vectors, from personality type to cell shape to fluorescence recovery after photobleaching experiments. The Value and Values of Science. The mystery of the world and the value of wonder. Loving the questions. Research as exploratory dynamics.
+    Vectors and representations. Rethinking the idea of a vector, from Descartes (x,y) to ChatGPT. Different concepts of regression and fitting, the eigenworm, and describing biological phenomena with minimal variables. Overview of physical biology, what has been achieved, what next?
