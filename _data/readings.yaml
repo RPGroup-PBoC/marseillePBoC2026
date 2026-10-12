@@ -15,6 +15,22 @@ Day 1:
    authors: William Thurston
    link: https://arxiv.org/abs/math/9404236
    year: 1994
+
+ - pub: 
+   title: The First 50 Million Prime Numbers
+   authors: Dan Zaiger
+   link: https://pages.uoregon.edu/ddugger/zagier_fiftymillion.pdf
+   year: 1975
+
+ - pub: 
+   title: The Eye of Reason: Darwin`s Development during the Beagle Voyage
+   authors: Howard E. Gruber and Valmai Gruber
+   link: https://faculty.weber.edu/eamsel/Classes/History%20&%20Systems%20%284090%29/Papers/Gruber%20&%20Gruber%20(1962).pdf
+   year: 1962
+
+ 
+
+ 
   
 
  # - pub:
@@ -49,111 +65,111 @@ Day 1:
  #      "This book describes many of the estimates we will do in class and is a useful resource for finding key numbers that characterize biological phenomena. (<http://book.bionumbers.org/>)"
 
 Day 2:
- - pub:
-   title: "In Memoriam: Jacques Monod (1910–1976)."
-   authors: Agnes Ullmann.
-   year: 2011
-   link: MonodMemorium.pdf
-   description: >
-      A memorium for Jacques Monod and his musings upon the secret of life.
+ # - pub:
+ #   title: "In Memoriam: Jacques Monod (1910–1976)."
+ #   authors: Agnes Ullmann.
+ #   year: 2011
+ #   link: MonodMemorium.pdf
+ #   description: >
+ #      A memorium for Jacques Monod and his musings upon the secret of life.
       
- - pub:
-   title: Nothing in Biology makes Sense but in the Light of Evolution
-   authors: Theodosius Dobzhansky
-   year: 1972
-   link: nothing_sense.pdf
-   description: >
+ # - pub:
+ #   title: Nothing in Biology makes Sense but in the Light of Evolution
+ #   authors: Theodosius Dobzhansky
+ #   year: 1972
+ #   link: nothing_sense.pdf
+ #   description: >
    
- - pub:
-   title: "Models in biology: \"accurate descriptions of our pathetic thinking\""
-   authors: Jeremy Gunawardena
-   year: 2014
-   link: Gunawardena2014.pdf
-   description: >
-      A Review discussing the role of Mathematics in Biology and how the reliance on assumptions requires models to be falsifiable.
+ # - pub:
+ #   title: "Models in biology: \"accurate descriptions of our pathetic thinking\""
+ #   authors: Jeremy Gunawardena
+ #   year: 2014
+ #   link: Gunawardena2014.pdf
+ #   description: >
+ #      A Review discussing the role of Mathematics in Biology and how the reliance on assumptions requires models to be falsifiable.
       
- - pub:
-   title: "Efficient Estimation of Word Representations in Vector Space"
-   authors: Mikolov et al.
-   year: 2013
-   link: Mikolovword2vec.pdf
-   description: >
+ # - pub:
+ #   title: "Efficient Estimation of Word Representations in Vector Space"
+ #   authors: Mikolov et al.
+ #   year: 2013
+ #   link: Mikolovword2vec.pdf
+ #   description: >
    
 
 Day 3:
- - pub:
-   title: "Superresolution imaging of ribosomes and RNA polymerasein live Escherichia coli cells"
-   authors: Bakshi et al.
-   year: 2012
-   link: Bakshi2012.pdf
-   description: >
+#  - pub:
+#    title: "Superresolution imaging of ribosomes and RNA polymerasein live Escherichia coli cells"
+#    authors: Bakshi et al.
+#    year: 2012
+#    link: Bakshi2012.pdf
+#    description: >
    
- - pub:
-   title: "Are theoretical results 'Results'?"
-   authors: "Raymond E Goldstein"
-   year: 2018
-   link: Goldstein2018.pdf
-   description: >
+#  - pub:
+#    title: "Are theoretical results 'Results'?"
+#    authors: "Raymond E Goldstein"
+#    year: 2018
+#    link: Goldstein2018.pdf
+#    description: >
 
- - pub:
-   title: An Application of the Poisson Distribution
-   authors: R. D. Clarke
-   year: 1946
-   link: london_bombs.pdf
-   description: >
-     A study of how often neighborhoods in London were hit by bombs during the second world war.
+#  - pub:
+#    title: An Application of the Poisson Distribution
+#    authors: R. D. Clarke
+#    year: 1946
+#    link: london_bombs.pdf
+#    description: >
+#      A study of how often neighborhoods in London were hit by bombs during the second world war.
 
- - pub:
-   title: Migration of Proteins along the Axons of the Sciatic Nerve
-   authors: Droz et al.
-   year: 1957
-   link: Droz1957.pdf
-   description: >
+#  - pub:
+#    title: Migration of Proteins along the Axons of the Sciatic Nerve
+#    authors: Droz et al.
+#    year: 1957
+#    link: Droz1957.pdf
+#    description: >
    
- - pub:
-   title: "Robert Brown's Discovery of Brownian Motion"
-   authors: Robert Brown
-   year: 1828
-   link: Brown1828.pdf
-   description: >
-      "A brief account of microscopical observations made in the months of June, July and August 1827, on the particles contained in the pollen of plants; and on the general existence of active molecules in organic and inorganic bodies"
+#  - pub:
+#    title: "Robert Brown's Discovery of Brownian Motion"
+#    authors: Robert Brown
+#    year: 1828
+#    link: Brown1828.pdf
+#    description: >
+#       "A brief account of microscopical observations made in the months of June, July and August 1827, on the particles contained in the pollen of plants; and on the general existence of active molecules in organic and inorganic bodies"
 
- - pub:
-   title: "Design Principles of Length Control of Cytoskeletal Structures"
-   authors: Mohapatra et al.
-   year: 2016
-   link: Mohapatra2016.pdf
-   description: >
+#  - pub:
+#    title: "Design Principles of Length Control of Cytoskeletal Structures"
+#    authors: Mohapatra et al.
+#    year: 2016
+#    link: Mohapatra2016.pdf
+#    description: >
 
-Day 4:
- - pub:
-   title: "The usefulness of useless knowledge"
-   authors: Abraham Flexner.
-   year: 1939
-   link: useful_useless.pdf
-   description: >
+# Day 4:
+#  - pub:
+#    title: "The usefulness of useless knowledge"
+#    authors: Abraham Flexner.
+#    year: 1939
+#    link: useful_useless.pdf
+#    description: >
    
- - pub:
-   title: "Allan Wilson: Evolutionary"
-   authors: nzonscreen.
-   year: 2008
-   link: Allan_Wilson.pdf
-   description: >
-     A documentary on the revolutionary evolutionary biologies, Allan Wilson. (<https://www.nzonscreen.com/title/allan-wilson-evolutionary-2008/overview>)
+#  - pub:
+#    title: "Allan Wilson: Evolutionary"
+#    authors: nzonscreen.
+#    year: 2008
+#    link: Allan_Wilson.pdf
+#    description: >
+#      A documentary on the revolutionary evolutionary biologies, Allan Wilson. (<https://www.nzonscreen.com/title/allan-wilson-evolutionary-2008/overview>)
      
- - pub:
-   title: "Patterns of predation in a diverse predator–prey system"
-   authors: Sinclair et al.
-   year: 2003
-   link: sinclair2003.pdf
-   description: >
+#  - pub:
+#    title: "Patterns of predation in a diverse predator–prey system"
+#    authors: Sinclair et al.
+#    year: 2003
+#    link: sinclair2003.pdf
+#    description: >
    
- - pub:
-   title: "All I Really Need To Know"
-   authors: David Stern.
-   year: 1993
-   link: stern.pdf
-   description: >
+#  - pub:
+#    title: "All I Really Need To Know"
+#    authors: David Stern.
+#    year: 1993
+#    link: stern.pdf
+#    description: >
    
 # - extra:
 #   exurl: https://youtu.be/9P5aJ5GVpP8
