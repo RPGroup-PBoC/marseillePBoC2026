@@ -1,34 +1,39 @@
 Day 1:
- - pub:
-   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
-   authors: Sam Roberts.
-   year: 2023
-   link: Payne_Obituary.pdf
-   description: >
-      New York Times Obituary for influential biologist Roger Payne.
+ - pub: 
+   title: The Purpose and Ubiquity of Turnover
+   authors: Peter W. Reddien
+   link: https://doi.org/10.1016/j.cell.2024.04.034 
 
- - pub:
-   title: Physical Biology of the Cell YouTube Channel.
-   authors: Rob Phillips.
-   year: 2021
-   link: PBOC_url.pdf
-   description: >
-      Rob's collection of pre-recorded vignettes. (Note: clicking the link opens a pdf containing a followable url <https://www.youtube.com/@physicalbiologyofthecellca307/videos>)
- - pub:
-   title: BioNumbers.
-   authors: Milo Lab.
-   year: 2021
-   link: BioNum.pdf
-   description: >
-      A database of useful biological numbers (<https://bionumbers.hms.harvard.edu>).
+ # - pub:
+ #   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
+ #   authors: Sam Roberts.
+ #   year: 2023
+ #   link: Payne_Obituary.pdf
+ #   description: >
+ #      New York Times Obituary for influential biologist Roger Payne.
+
+ # - pub:
+ #   title: Physical Biology of the Cell YouTube Channel.
+ #   authors: Rob Phillips.
+ #   year: 2021
+ #   link: PBOC_url.pdf
+ #   description: >
+ #      Rob's collection of pre-recorded vignettes. (Note: clicking the link opens a pdf containing a followable url <https://www.youtube.com/@physicalbiologyofthecellca307/videos>)
+ # - pub:
+ #   title: BioNumbers.
+ #   authors: Milo Lab.
+ #   year: 2021
+ #   link: BioNum.pdf
+ #   description: >
+ #      A database of useful biological numbers (<https://bionumbers.hms.harvard.edu>).
       
- - pub:
-   title: Cell Biology by the Numbers.
-   authors: Ron Milo, Rob Phillips.
-   year: 2015
-   link: BioNum.pdf
-   description: >
-      "This book describes many of the estimates we will do in class and is a useful resource for finding key numbers that characterize biological phenomena. (<http://book.bionumbers.org/>)"
+ # - pub:
+ #   title: Cell Biology by the Numbers.
+ #   authors: Ron Milo, Rob Phillips.
+ #   year: 2015
+ #   link: BioNum.pdf
+ #   description: >
+ #      "This book describes many of the estimates we will do in class and is a useful resource for finding key numbers that characterize biological phenomena. (<http://book.bionumbers.org/>)"
 
 Day 2:
  - pub:
