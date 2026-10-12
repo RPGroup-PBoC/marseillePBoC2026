@@ -2,7 +2,20 @@ Day 1:
  - pub: 
    title: The Purpose and Ubiquity of Turnover
    authors: Peter W. Reddien
+   year: 2026
    link: https://doi.org/10.1016/j.cell.2024.04.034 
+ - pub:
+   title: The Evolution of Physics
+   authors: Albert Einsten and Léopold Infeld
+   year: 1938
+   link: https://vinaire.me/wp-content/uploads/2014/02/evolution-of-physics-einstein-1938.pdf
+
+ - pub: 
+   title: On proof and progress in mathematics
+   authors: William Thurston
+   link: https://arxiv.org/abs/math/9404236
+   year: 1994
+  
 
  # - pub:
  #   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
