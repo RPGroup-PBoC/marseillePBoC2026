@@ -22,11 +22,11 @@ Day 1:
    link: https://pages.uoregon.edu/ddugger/zagier_fiftymillion.pdf
    year: 1975
 
- - pub: 
-   title: The Eye of Reason: Darwin`s Development during the Beagle Voyage
-   authors: Howard E. Gruber and Valmai Gruber
-   link: https://faculty.weber.edu/eamsel/Classes/History%20&%20Systems%20%284090%29/Papers/Gruber%20&%20Gruber%20(1962).pdf
-   year: 1962
+ # - pub: 
+ #   title: The Eye of Reason: Darwin`s Development during the Beagle Voyage
+ #   authors: Howard E. Gruber and Valmai Gruber
+ #   link: https://faculty.weber.edu/eamsel/Classes/History%20&%20Systems%20%284090%29/Papers/Gruber%20&%20Gruber%20(1962).pdf
+ #   year: 1962
 
  
 
@@ -64,7 +64,7 @@ Day 1:
  #   description: >
  #      "This book describes many of the estimates we will do in class and is a useful resource for finding key numbers that characterize biological phenomena. (<http://book.bionumbers.org/>)"
 
-Day 2:
+# Day 2:
  # - pub:
  #   title: "In Memoriam: Jacques Monod (1910–1976)."
  #   authors: Agnes Ullmann.
@@ -96,7 +96,7 @@ Day 2:
  #   description: >
    
 
-Day 3:
+# Day 3:
 #  - pub:
 #    title: "Superresolution imaging of ribosomes and RNA polymerasein live Escherichia coli cells"
 #    authors: Bakshi et al.
