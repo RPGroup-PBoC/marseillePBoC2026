@@ -23,7 +23,7 @@ Day 1:
    year: 1975
 
  - pub: 
-   title: The Eye of Reason: Darwin`s Development during the Beagle Voyage
+   title: "The Eye of Reason: Darwin`s Development during the Beagle Voyage"
    authors: Howard E. Gruber and Valmai Gruber
    link: https://www.jstor.org/stable/228029
    year: 1962
@@ -64,7 +64,7 @@ Day 1:
  #   description: >
  #      "This book describes many of the estimates we will do in class and is a useful resource for finding key numbers that characterize biological phenomena. (<http://book.bionumbers.org/>)"
 
-# Day 2:
+Day 2:
  # - pub:
  #   title: "In Memoriam: Jacques Monod (1910–1976)."
  #   authors: Agnes Ullmann.
