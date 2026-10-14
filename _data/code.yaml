@@ -28,7 +28,7 @@ Exercises:
           
   - script:
     title: Exercise 3
-    colab: # stochastic diffusion: "https://colab.research.google.com/drive/1a_8T8zamZXYn0b2fNfgwC9NpuE3nE0td?usp=sharing"; #  Diffusion with the Chemical Master Equation and the application to FRAP: "https://colab.research.google.com/drive/1fWn4XpSItS7_G80OPRzvOmQBxw2i7hSN#scrollTo=mmCUWO9TcHOi"
+    colab: (template in class)[https://colab.research.google.com/drive/1u5f2vrXYVMf8tFrOuJsKuS51GNWqjroc?usp=sharing]
     description: >
           Diffusion by Coin Flips; the Chemical Master Equation; FRAP; reset dynamics
           
