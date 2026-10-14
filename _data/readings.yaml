@@ -35,21 +35,21 @@ Day 3:
    authors: Jean Perrin
    year: 1909
 
- - pub:
-   title: "Parameter Space Compression Underlies Emergent Theories and Predictive Models" 
-   authors: Benjamin Machta, Ricky Chachra, Mark Transtrum, and James Sethna
-   link: "https://www.science.org/doi/10.1126/science.1238723"
-   year: 2013
-   description: >
-     Explains another perspective on why truncating dynamical update rules is reasonably approximated by two-term ~diffusion equation.
-     
-  - pub:
-   title: "The Magic of the Collective"
-   authors: Kai Simons
-   link: "https://www.mpi-cbg.de/news-outreach/news-media/article/the-magic-of-the-collective"
-   year: 2013
-   description: >
-     A discussion of the subtle task of creating good scientific culture.
+- pub:
+    title: "Parameter Space Compression Underlies Emergent Theories and Predictive Models"
+    authors: "Benjamin Machta, Ricky Chachra, Mark Transtrum, and James Sethna"
+    link: "https://www.science.org/doi/10.1126/science.1238723"
+    year: 2013
+    description: >
+      Explains another perspective on why truncating dynamical update rules is reasonably approximated by two-term ~diffusion equation.
+
+- pub:
+    title: "The Magic of the Collective"
+    authors: "Kai Simons"
+    link: "https://www.mpi-cbg.de/news-outreach/news-media/article/the-magic-of-the-collective"
+    year: 2013
+    description: >
+      A discussion of the subtle task of creating good scientific culture.
      
   
 
