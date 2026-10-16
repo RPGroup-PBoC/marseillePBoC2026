@@ -3,30 +3,35 @@ Day 1:
    title: The Purpose and Ubiquity of Turnover
    authors: Peter W. Reddien
    year: 2026
-   link: https://doi.org/10.1016/j.cell.2024.04.034 
+   link: https://doi.org/10.1016/j.cell.2024.04.034
+   raw: true
  - pub:
    title: The Evolution of Physics
    authors: Albert Einsten and Léopold Infeld
    year: 1938
    link: https://vinaire.me/wp-content/uploads/2014/02/evolution-of-physics-einstein-1938.pdf
+   raw: true
 
  - pub: 
    title: On proof and progress in mathematics
    authors: William Thurston
    link: https://arxiv.org/abs/math/9404236
    year: 1994
+   raw: true
 
  - pub: 
    title: The First 50 Million Prime Numbers
    authors: Dan Zaiger
    link: https://pages.uoregon.edu/ddugger/zagier_fiftymillion.pdf
    year: 1975
+   raw: true
 
  - pub: 
    title: "The Eye of Reason: Darwin`s Development during the Beagle Voyage"
    authors: Howard E. Gruber and Valmai Gruber
    link: https://www.jstor.org/stable/228029
    year: 1962
+   raw: true
 
 Day 3:
   - pub:
@@ -34,11 +39,13 @@ Day 3:
     link: http://gsl.mn/assets/ref/Perrin_1909_18_searchable.pdf
     authors: Jean Perrin
     year: 1909
+    raw: true
 
   - pub:
     title: "Parameter Space Compression Underlies Emergent Theories and Predictive Models"
     authors: "Benjamin Machta, Ricky Chachra, Mark Transtrum, and James Sethna"
     link: https://www.science.org/doi/10.1126/science.1238723
+    raw: true
     year: 2013
     description: >
       Explains another perspective on why truncating dynamical update rules is reasonably approximated by a two-term diffusion equation.
@@ -48,6 +55,7 @@ Day 3:
     authors: "Kai Simons"
     link: https://www.mpi-cbg.de/news-outreach/news-media/article/the-magic-of-the-collective
     year: 2013
+    raw: true
     description: >
       A discussion of the subtle task of creating good scientific culture.
   
@@ -57,6 +65,7 @@ Day 5:
     link: https://www.nature.com/articles/nphys3532
     authors: Clifford Brangwynne, Peter Tompa, Rohit Pappu 
     year: 2015
+    raw: true
  # - pub:
  #   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
  #   authors: Sam Roberts.
