@@ -66,6 +66,13 @@ Day 5:
     authors: Clifford Brangwynne, Peter Tompa, Rohit Pappu 
     year: 2015
     raw: true
+  - pub:
+    title: "Physical principles underlying the transduction of bilayer deformation forces during mechanosensitive channel gating"
+    authors: Eduardo Perozo, Anna Kloda, D. Marien Cortes, Boris Martinac
+    year: 2002
+    link: https://www.rpgroup.caltech.edu/marseillePBoC2026/readings
+    raw: true
+    
  # - pub:
  #   title: Roger Payne, Biologist Who Heard Whales Singing, Dies at 88.
  #   authors: Sam Roberts.
