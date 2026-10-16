@@ -32,6 +32,6 @@ Edit those to update the website
 ---
 
 {%for link in site.data.links%}
-* <a href="{{link.address}}" target="_blank">**{{link.title}}**</a> {%if link.description %}{{link.description}}{%endif%}
+* <a href="{% if pub.raw %}{{pub.link}}{% else %}{{site.baseurl}}/assets/pdfs/{{pub.link}}{% endif %}" target="_blank">**{{pub.title}}** by
 {%endfor%}
 
